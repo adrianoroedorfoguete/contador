@@ -1,31 +1,16 @@
+![contador](https://user-images.githubusercontent.com/110940593/224492052-284497d7-01c9-4d82-8dc2-40d39fa97aa4.png)
 
-> Abrir essa página em [https://adrianoroedorfoguete.github.io/contador/](https://adrianoroedorfoguete.github.io/contador/)
+<h1>Contador</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/Robotics-blue"/>
+<img src="https://img.shields.io/badge/ICBEU-green"/>
+</p>
 
-## Usar como extensão
+# Descrição
+Programa montado para microbit, pode ser utilizado para contar objetos, animais, brinqudeos entre outros
 
-Este repositório pode ser adicionado como **extensão** no MakeCode.
+# Mecanicas
+ele funciona como um contador comum ao apertar "A" o contador adiciona 1 ao numero inicial enquanto ao apertar "B" o contador diminui -1 ao numero inicial,ao apertar os dois botoões ao mesmo tempo o numero retorna a zero, além disso o contador chega até 99 ao passar disso ele retorna a zero
 
-* abrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* clique em **Novo Projeto**
-* clique em **Extensões** em baixo do menu com ícone de engrenagem
-* procure por **https://github.com/adrianoroedorfoguete/contador** e importe
-
-## Editar este projeto ![Ícone de estado da compilação](https://github.com/adrianoroedorfoguete/contador/workflows/MakeCode/badge.svg)
-
-Para editar este repositório no MakeCode.
-
-* abrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* clique em **Importar** e depois clique em **Importar URL**
-* cole **https://github.com/adrianoroedorfoguete/contador** e clique em importar
-
-## Pré-visualização de blocos
-
-"Essa imagem mostra o bloco de códigos da última confirmação no "mestre"".
-Esta imagem pode demorar alguns minutos para atualizar.
-
-![Uma visão renderizada dos blocos](https://github.com/adrianoroedorfoguete/contador/raw/master/.github/makecode/blocks.png)
-
-#### Metadados (usados para pesquisa, renderização)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+# :computer:Tecnologias:computer:
+- Makecode
